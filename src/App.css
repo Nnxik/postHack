@@ -1,0 +1,13 @@
+.container {
+  width: 400px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.roles {
+  margin-bottom: 20px;
+}
+
+.error-message {
+  color: red;
+}
